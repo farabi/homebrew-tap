@@ -7,7 +7,7 @@ class DangerKotlin < Formula
   head "https://github.com/danger/kotlin.git"
 
   # Use the vendored danger
-  depends_on "danger/tap/danger-js"
+  depends_on "farabi/tap/danger-js"
   depends_on "kotlin"
   depends_on "maven"
   depends_on "gradle"
