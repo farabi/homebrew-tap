@@ -1,8 +1,7 @@
 class DangerSwift < Formula
   desc "Write your Dangerfiles in Swift"
   homepage "https://github.com/farabi/danger-swift"
-  version "2.0.6"
-  url "https://github.com/farabi/danger-swift/archive/#{version}.tar.gz"
+  url "https://github.com/farabi/danger-swift"
   sha256 "8dd28a175e631cba46f4b44c0656cbbf04a6beac9655283904dcf96ad6d95860"
   head "https://github.com/farabi/danger-swift.git"
 
